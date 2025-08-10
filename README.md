@@ -1,3 +1,6 @@
-# DS Template
+# Project A — Customer Churn Prediction
 
-Starter template for small data projects: train/predict scripts, simple requirements.
+This project predicts whether a customer is likely to churn using historical data.  
+It follows a simple, reproducible workflow: **data ingestion → exploratory data analysis (EDA) → baseline model → deployment (later step)**.
+
+---
